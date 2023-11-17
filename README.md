@@ -1,7 +1,22 @@
-- 👋 Hi, I’m @PartyFinderApp
-- 👀 I’m interested in in JS and supabase.js
+# getting start 
+npm install
+expo start 
 
-- To luch the app run Npm install or Yarn install.
-- The icon are in assets both for android and IOS
-- We use Expo go to publish the app
+// install packages
+npm install
+
+#animations 
+https://github.com/oblador/react-native-animatable
+
+#native wind  and react native wind
+https://www.nativewind.dev/
+https://reactnativewind.com/
+
+
+ 
+// connection to the services
+Github , Supabase , Gmail , Expo Go , Firebase 
+
+email : developerspartyfinder@gmail.com
+Password: D3V.pf23!
 

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "204716661921",
+    "project_id": "partyfinder-aa2d5",
+    "storage_bucket": "partyfinder-aa2d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204716661921:android:0a00d6ab58a81d14a624e0",
+        "android_client_info": {
+          "package_name": "com.partyfinder.PartyFinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204716661921-1m74f7ln2dhgt0h601pjrikrc2a8pbt6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwd_dZ2bWQ2JDIuUA_aBiRRqMaXYsNfOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204716661921-1m74f7ln2dhgt0h601pjrikrc2a8pbt6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "204716661921-sb3tgne934lb7f6gcbacinj94ersb5e0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.Party"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
